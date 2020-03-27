@@ -70,3 +70,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 This app is about a simple meme generator using imgflip get_memes.
 
 ![React App - Google Chrome 11-02-2020 16_26_45 (2)](https://user-images.githubusercontent.com/43717493/74231550-d6ebec80-4cec-11ea-9f49-73832390b9df.png)
+
+Running on heroku:
+[image-heroku](https://image-heroku.herokuapp.com/)
